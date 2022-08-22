@@ -1,0 +1,15 @@
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\bin\Debug\net6.0\0036.exe
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\bin\Debug\net6.0\0036.deps.json
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\bin\Debug\net6.0\0036.runtimeconfig.json
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\bin\Debug\net6.0\0036.dll
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\bin\Debug\net6.0\0036.pdb
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.csproj.AssemblyReference.cache
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.AssemblyInfoInputs.cache
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.AssemblyInfo.cs
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.csproj.CoreCompileInputs.cache
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.dll
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\refint\0036.dll
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.pdb
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\0036.genruntimeconfig.cache
+D:\Лилия мои доки\GB\C#\HomeWork5\0036\obj\Debug\net6.0\ref\0036.dll
